@@ -1,4 +1,6 @@
-# **华为轻量级智能穿戴设备开发skills**
+# **华为轻量级智能穿戴设备开发skill**
+
+[英文](README-en.md) | **中文**
 
 ### **huawei-lite-wearable-dev 技能速览：**
 
